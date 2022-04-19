@@ -1,0 +1,15 @@
+{
+    "name": "audio-ut.tbuen",
+    "description": "Ubuntu Touch App for ESP32 Audio Player",
+    "architecture": "@CLICK_ARCH@",
+    "title": "ESP32 Audio",
+    "hooks": {
+        "audio-ut": {
+            "apparmor": "audio-ut.apparmor",
+            "desktop":  "audio-ut.desktop"
+        }
+    },
+    "version": "0.1.0",
+    "maintainer": "Thomas Büning <buening@online.de>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}

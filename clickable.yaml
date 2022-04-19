@@ -1,0 +1,8 @@
+clickable_minimum_required: 7.1.2
+builder: rust
+kill: audio-ut
+install_root_data:
+- manifest.json
+- audio-ut.apparmor
+- audio-ut.desktop
+- assets

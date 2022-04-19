@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ESP32 Audio
+Exec=audio-ut %U
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
